@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/gs_style" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
